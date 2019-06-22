@@ -63,11 +63,3 @@ Photos Credits:
 - http://graphicburger.com/
 
 
-IMPORTANT: Images used in the Preview demo are not included in the downloaded package.
-
-
-ThemeForest: https://themeforest.net/user/beshleyua
-Email: beshleyua@gmail.com
-
-
-Good luck.
