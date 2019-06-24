@@ -1,22 +1,4 @@
-Thank you for your recent purchase of "Ryan - vCard / Resume / CV Template".
 
---------------------------------------
-
-
-Overview:
-
-Ryan - vCard / Resume / CV Template — Perfect to promote your work. Fully responsive and easy for you to edit. Dark and Light Version. 6 Different Color schemes and easy to set any color to elements such as links, buttons, menu links, etc. Template focused on web developers, digital professionals, programmers or photographers.
-
-
---------------------------------------
-
-
-Features:
-- Dark and Light Version
-- 6 Color Schemes
-- 4 Types Portfolio: Image, Inline, Iframe(YouTube, Vimeo) and Audio(SoundCloud)
-- Awesome Portfolio with filters
-- Easy to Customize: Colors, Fonts, Content etc..
 - HTML5, CSS3 & jQuery powered
 - Fully Responsive
 - Valid, Clean and Commented code
@@ -81,11 +63,3 @@ Photos Credits:
 - http://graphicburger.com/
 
 
-IMPORTANT: Images used in the Preview demo are not included in the downloaded package.
-
-
-ThemeForest: https://themeforest.net/user/beshleyua
-Email: beshleyua@gmail.com
-
-
-Good luck.
